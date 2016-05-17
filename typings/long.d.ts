@@ -343,7 +343,7 @@ declare class Long
     xor( other: Long | number | string ): Long;
 }
 
-namespace Long {
+declare namespace Long {
     
 }
 
